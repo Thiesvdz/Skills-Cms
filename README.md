@@ -1,5 +1,5 @@
 <h1 align="center">
-	Beroepsopdracht PHP
+	Content Management Systeem Coffeeshop
 </h1>
 
 <br>
@@ -11,16 +11,16 @@ Voor deze periode moeten wij een CMS maken met behulp van PHP en JSX. In deze re
 
 ## 📰 Documentation
 ✔️ <a href="#">Wireframe</a><br>
-✔️ <a href="#">Trello board</a>
+✔️ <a href="https://trello.com/b/BnifXS3q/skills-cms">Trello board</a>
 
 ## 🛠 Skills
 Skills die wij hebben gebruikt in deze repository zijn, HTML, CSS, JSX en PHP.
 
 ## 🙋🏻‍♂️ Author
-@pawelkellner <br>
-@JelaniAlexis <br>
-@Thiesvdz <br>
-@JamieVos991
+<a href="https://github.com/pawelkellner">@pawelkellner</a> <br>
+<a href="https://github.com/JelaniAlexis">@JelaniAlexis</a> <br>
+<a href="https://github.com/Thiesvdz">@Thiesvdz</a> <br>
+<a href="https://github.com/JamieVos991">@JamieVos991</a> 
 
 ## 📋 License
 MIT License
