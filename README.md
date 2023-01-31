@@ -24,7 +24,7 @@ Skills die wij hebben gebruikt in deze repository zijn, HTML, CSS, JSX en PHP.
 
 <br>
 
-## 🙋🏻‍♂️ Author
+## 🙋🏻‍♂️ Authors
 <a href="https://github.com/pawelkellner">@pawelkellner</a> <br>
 <a href="https://github.com/JelaniAlexis">@JelaniAlexis</a> <br>
 <a href="https://github.com/Thiesvdz">@Thiesvdz</a> <br>
