@@ -1,23 +1,28 @@
+<h1 align="center">
+	Beroepsopdracht PHP
+</h1>
+
+<br>
+
 Voor deze periode moeten wij een CMS maken met behulp van PHP en JSX. In deze repository, kan je alles vinden. 
 
-<h1>🚩 Demo </h1>
-<br>
+## 🚩 Demo
 <a href="#">Demo</a>
 
-📰 Documentation
+## 📰 Documentation
 ✔️ <a href="#">Wireframe</a>
 ✔️ <a href="#">Trello board</a>
 
-🛠 Skills
+## 🛠 Skills
 Skills die wij hebben gebruikt in deze repository zijn, HTML, CSS, JSX en PHP.
 
-🙋🏻‍♂️ Author
+## 🙋🏻‍♂️ Author
 @pawelkellner
 @JelaniAlexis
 @Thiesvdz
 @JamieVos991
 
-📋 License
+## 📋 License
 MIT License
 
 Copyright (c) [2023]
