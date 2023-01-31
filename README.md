@@ -6,8 +6,12 @@
 
 Voor deze periode moeten wij een CMS maken met behulp van PHP en JSX. In deze repository, kan je alles vinden. 
 
+<br>
+
 ## 🚩 Demo
 <a href="#">Demo</a>
+
+<br>
 
 ## 📰 Documentation
 ✔️ <a href="#">Wireframe</a><br>
