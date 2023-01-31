@@ -4,7 +4,7 @@
 
 <br>
 
-Voor deze periode moeten wij een CMS maken met behulp van PHP en JSX. In deze repository, kan je alles vinden. 
+Voor deze periode moeten wij een CMS maken met behulp van PHP en JSX. In deze repository, kan je alles vinden.  aaaaaaaaaaa
 
 <br>
 
@@ -20,7 +20,7 @@ Voor deze periode moeten wij een CMS maken met behulp van PHP en JSX. In deze re
 <br>
 
 ## 🛠 Skills
-Skills die wij hebben gebruikt in deze repository zijn, HTML, CSS, JSX en PHP.
+Skills die wij hebben gebruikt in deze repository zijn, HTML, CSS, JSX en PHP. aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 <br>
 
