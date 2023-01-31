@@ -17,14 +17,20 @@ Voor deze periode moeten wij een CMS maken met behulp van PHP en JSX. In deze re
 ✔️ <a href="#">Wireframe</a><br>
 ✔️ <a href="https://trello.com/b/BnifXS3q/skills-cms">Trello board</a>
 
+<br>
+
 ## 🛠 Skills
 Skills die wij hebben gebruikt in deze repository zijn, HTML, CSS, JSX en PHP.
+
+<br>
 
 ## 🙋🏻‍♂️ Author
 <a href="https://github.com/pawelkellner">@pawelkellner</a> <br>
 <a href="https://github.com/JelaniAlexis">@JelaniAlexis</a> <br>
 <a href="https://github.com/Thiesvdz">@Thiesvdz</a> <br>
 <a href="https://github.com/JamieVos991">@JamieVos991</a> 
+
+<br>
 
 ## 📋 License
 MIT License
