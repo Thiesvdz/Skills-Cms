@@ -4,7 +4,7 @@ const HomePage = () => {
     return(
         <>
             <Navigation />
-            <h1>asds</h1>
+            <h1>Homepage</h1>
         </>
     );
 }
