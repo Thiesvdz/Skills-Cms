@@ -1,10 +1,10 @@
 import Navigation from "../Components/Navigation/Navigation";
-
+import Home from "../Components/Home/Home"
 const HomePage = () => {
     return(
         <>
             <Navigation />
-            <h1>Homepage</h1>
+            <Home />
         </>
     );
 }

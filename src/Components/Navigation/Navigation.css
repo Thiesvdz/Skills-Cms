@@ -1,19 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Poppins&display=swap");
 .navigation {
-    width: 100%;
-    height: 10rem;
-    background: darkcyan;
+  width: 100%;
+  height: 10rem;
+  background: #00000067;
+  color: #eee;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-family: "Lato", sans-serif;
 }
 
-.navigation__right {
-    display: flex;
-    justify-content: right;
-    align-items: center;
-    height: 100%;
-    padding-right: 1rem;
+.navigation .nav__figure {
+  width: 25%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
 }
 
-.navigation__login {
-    width: 10rem;
-    height: 3rem;
-    border: none;
+.navigation .nav__figure .nav__icon {
+  font-size: 4rem;
+  background: -webkit-gradient(linear, left top, left bottom, from(#e72c83), to(#a742c6));
+  background: linear-gradient(to bottom, #e72c83 0%, #a742c6 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
+
+.navigation .nav__ul {
+  width: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.navigation .nav__ul .nav__li {
+  list-style: none;
+  text-decoration: none;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.navigation .navigation__right {
+  width: 25%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.navigation .navigation__right .navigation__login {
+  width: 10rem;
+  height: 3rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  border: none;
+  border-radius: .5rem;
+  -webkit-transition: .2s all;
+  transition: .2s all;
+  background: -webkit-gradient(linear, left top, left bottom, from(#e72c83), to(#a742c6));
+  background: linear-gradient(to bottom, #e72c83 0%, #a742c6 100%);
+  color: #eee;
+  cursor: pointer;
+}
+
+.navigation .navigation__right .navigation__login:hover {
+  opacity: 0.8;
+}
+/*# sourceMappingURL=Navigation.css.map */
